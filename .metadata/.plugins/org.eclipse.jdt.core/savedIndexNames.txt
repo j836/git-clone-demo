@@ -1,0 +1,20 @@
+INDEX VERSION 1.130+G:\Users\P.J\Desktop\git-clone-demo\.metadata\.plugins\org.eclipse.jdt.core
+188826176.index
+952671857.index
+4101945546.index
+3090202611.index
+3337117492.index
+4267739718.index
+1462223529.index
+2303498337.index
+995049614.index
+1244140213.index
+1835913230.index
+1096713702.index
+3837343479.index
+1713720732.index
+1377776382.index
+649397519.index
+2285062276.index
+1637230223.index
+2397531148.index

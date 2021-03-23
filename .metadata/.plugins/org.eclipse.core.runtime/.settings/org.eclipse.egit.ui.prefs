@@ -1,0 +1,4 @@
+BranchProjectTracker__C\:\\Users\\Admin\\git\\ltimyprojectrepo\\.git_br1=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="br1">\r\n<project>\\SampleGitDemo</project>\r\n</projects>
+BranchProjectTracker__C\:\\Users\\Admin\\git\\ltimyprojectrepo\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="master">\r\n<project>\\SampleGitDemo</project>\r\n</projects>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>Sona nikala</message>\r\n<message>Aalu dala </message>\r\n<message>Created cube() function</message>\r\n<message>Merge branch &apos;br1&apos;</message>\r\n<message>Created square() in br1</message>\r\n<message>Created div and mod function</message>\r\n<message>Added prod function in br1</message>\r\n<message>Called add function</message>\r\n</messages>
+eclipse.preferences.version=1
